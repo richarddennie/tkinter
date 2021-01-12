@@ -15,7 +15,7 @@ window=tkinter.Tk()
 #Now, a inbuilt function Label is used to initalize the widget and designing its characterstics
 #let the widget be named as words
 
-words=Label(win,text="Hello World!")
+words=Label(window,text="Hello World!")
 
 #the word widget is now created, we now have place the widget in our display window 
 #pack function is used for this purpose
